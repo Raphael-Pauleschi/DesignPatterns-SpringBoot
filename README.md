@@ -1,2 +1,2 @@
 # DesignPatterns-SpringBoot
-Utilizando design patterns em uma aplicação springboot
+Utilizando design patterns (Singleton, Facade, Strategy) em uma aplicação springboot
